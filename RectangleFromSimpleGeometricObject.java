@@ -59,3 +59,5 @@ public class RectangleFromSimpleGeometricObject
     return 2 * (width + height);
   }
 }
+//pearson's rights 
+//Y.Daniel Liang 
