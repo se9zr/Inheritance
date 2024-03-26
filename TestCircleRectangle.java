@@ -25,3 +25,6 @@ public class TestCircleRectangle
       rectangle.getPerimeter());
   }
 }
+
+//pearson's rights 
+//Y.Daniel Liang 
